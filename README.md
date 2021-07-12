@@ -1,2 +1,2 @@
 # LowVisionRehabProjects
-Full Unity Project files
+Unity Project files
